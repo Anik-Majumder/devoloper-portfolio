@@ -53,3 +53,9 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+
+/* section 2 */
+
+.dream-big {
+  margin-top: 50px;
+}
